@@ -1,2 +1,5 @@
 # Basic-Geography-Quiz
-This is a basic quiz which is written on python. The program does not have a GUI. 
+
+Program : Baic Geography quiz which prints out questions and the user has to guess the capital cities of the countries.
+
+Purpose: This program was written in 2019 for my year 12 project for NCEA programming and Design.
